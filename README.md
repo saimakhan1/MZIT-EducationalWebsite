@@ -1,2 +1,2 @@
 # MZIT-EducationalWebsite
-This is a educational website- Single page website designed with html and CSS
+This is an educational website- Single page website designed with html and CSS, responsive in various size devices.
